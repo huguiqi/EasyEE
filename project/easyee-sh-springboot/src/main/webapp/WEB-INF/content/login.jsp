@@ -16,13 +16,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <base href="<%=basePath%>">
 
-<title>EasyEE-SH Spring Boot Login</title>
+<title>XXX系统登陆</title>
 
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="cache-control" content="no-cache">
 <meta http-equiv="expires" content="0">
-<meta http-equiv="keywords" content="sh,easyee,javaee,framework,java">
-<meta http-equiv="description" content="EasyEE-sh basic framework by EasyProject">
+<meta http-equiv="keywords" content="sh,cms,javaee,framework,java">
+<meta http-equiv="description" content="cms Project">
  
 
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Montserrat:400,700|Roboto:400,700,900" rel="stylesheet"> 
@@ -115,12 +115,7 @@ if(exceptionClassName!=null){
 <body>
 	<div
 		style="text-align: center;overflow:auto;width:100%;height:100%;margin: 10px auto;">
-		<h1><span style="color:#8FC31F">Easy</span><span style="color:#376E91">E</span><span style="color:#376E91">E</span>-<span style="">SH(JPA) Spring Boot Platform</span></h1>
-	<div class="title">
-	( <span class="fname">SpringBoot</span>
-			+ <span class="fname">Hibernate(JPA)</span> 
-			 + <span class="fname">EasyShiro</span> + <span class="fname">EasyCommonDAO</span>  +<span class="fname">EasyFilter</span>  + <span class="fname">EasyUI</span> + <span class="fname">EasyUIEX</span> )
-	
+		XX系统登陆
 			<br />
 	
 	</div>
@@ -213,9 +208,9 @@ if(exceptionClassName!=null){
 					</form>
 					<div style="text-align:center;padding:5px">
 						<a href="javascript:void(0)" class="easyui-linkbutton"
-							id="loginBtn" iconCls="icon-man" style="padding: 3px 10px">Login</a> <a
+							id="loginBtn" iconCls="icon-man" style="padding: 3px 10px">登陆</a> <a
 							href="javascript:void(0)" iconCls="icon-clear"
-							class="easyui-linkbutton" onclick="uiEx.clearForm('#loginForm')" style="padding: 3px 10px">Reset</a>
+							class="easyui-linkbutton" onclick="uiEx.clearForm('#loginForm')" style="padding: 3px 10px">重置密码</a>
 					</div>
 
 				</div>
@@ -224,13 +219,13 @@ if(exceptionClassName!=null){
 		</div>
 		<div class="footer">
 			<p>
-				© 2012 - 2099 Ray <a href="http://easyproject.cn/"
-					style="color: #8EBB31;font-weight: bold;text-decoration: underline;">EasyProject</a>
+				© 2012 - 2099 Ray <a href="http://huguiqi.com/"
+					style="color: #8EBB31;font-weight: bold;text-decoration: underline;">XX后台系统</a>
 
 			</p>
 			<p>
-				联系、反馈、定制、培训/Contact, Feedback, Custom, Train Email：<a
-					href="mailto:inthinkcolor@gmail.com">inthinkcolor@gmail.com</a>
+				项目开发 Email：<a
+					href="mailto:guiqi_hu@163.com">guiqi_hu@163.com</a>
 			</p>
 			</div>
 
